@@ -1,6 +1,7 @@
-# **Fossil Project**
+# 🦈 Mako
+### A Command-Line Power Utility by **Fossil Logic**
 
-This project template serves as a starting point for creating classic executable projects that can be published as applications on Docker or even via GitHub. It includes the necessary setup, compilation, installation, and running instructions to get your project up and running quickly.
+Mako is a system-administration-oriented utility built to handle tasks that extend beyond Shark’s file-operation and syncing focus. It specializes in system maintenance, resource monitoring, service management, configuration auditing, and automated cleanup routines. Mako acts as a lightweight operator console for keeping systems healthy, predictable, and optimized. Ideal for admins who want fast access to diagnostic and operational controls without the overhead of heavier management suites.
 
 ## **Prerequisites**
 
@@ -18,8 +19,8 @@ Ensure you have the following installed before starting:
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/fossillogic/app-c.git
-    cd app-c
+    git clone https://github.com/fossillogic/mako.git
+    cd mako
     ```
 
 2. **Configure the Build**:
@@ -43,16 +44,16 @@ Ensure you have the following installed before starting:
 5. **Run the Project**:
 
     ```sh
-    <exe name>
+    mako
     ```
 
 ## **Contributing**
 
-Interested in contributing? Please open pull requests or create issues on the [GitHub repository](https://github.com/fossillogic/app-c).
+Interested in contributing? Please open pull requests or create issues on the [GitHub repository](https://github.com/fossillogic/mako).
 
 ## **Feedback and Support**
 
-For issues, questions, or feedback, open an issue on the [GitHub repository](https://github.com/fossillogic/app-c/issues).
+For issues, questions, or feedback, open an issue on the [GitHub repository](https://github.com/fossillogic/mako/issues).
 
 ## **License**
 
